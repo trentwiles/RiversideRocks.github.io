@@ -1,2 +1,2 @@
 ## Welcome to Riverside Rocks!
-Code samples are more!
+<i>Code samples and more!</i>
